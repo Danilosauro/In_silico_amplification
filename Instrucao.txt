@@ -1,0 +1,32 @@
+TESTE TÉCNICO
+
+Dados o par de primers:
+
+FWD: 5'-GCDGCHGCNATGCGTTAYAC-3'
+REV: 5'-ACAAGMTCWGCKATTTTTTC-3'
+
+Dados os genomas da pasta data
+em formato fasta.
+
+1. Encontre via amplificação in silico quais genomas amplificam
+e quais não amplicam utilizando esse par de primers.
+
+2. Encontre qual sua estrutura evolutiva.
+
+3. Encontre qual espécie cada um dos que amplificaram pertence.
+
+4. Deduza qual o gene utilizado para essa dinâmica.
+
+-----
+
+Pontos importantes:
+
+- Utilize linhas de código compreensível
+
+- Ao utilizar pacotes, mostre a razão pela qual os utiliza e 
+  evite redundâncias
+
+- O uso de softwares externos é permito para operações
+  onerosas ou dificultadas com linguagem de alto nível
+  
+- Dê preferência a linguagem python
