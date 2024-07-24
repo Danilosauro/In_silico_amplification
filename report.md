@@ -63,7 +63,7 @@ A sequência amplificada foi submetida ao BLAST para identificar o microrganismo
 Com base na identificação do microrganismo e na análise da sequência amplificada, formulamos a seguinte hipótese sobre o gene envolvido:
 
 - **Gene:**
-  A sequência amplificada corresponde a uma região específica do genoma do **Bacillus velezensis strain AP215**. A análise sugere que essa região pode estar associada a genes que desempenham funções relevantes para o microrganismo, como a biossíntese de lipopeptídeos. Lipopeptídeos são conhecidos por suas propriedades antibióticas e podem desempenhar um papel crucial na interação do microrganismo com seu ambiente. A confirmação do gene exato e sua função específica exigirá uma análise mais detalhada, incluindo comparação com anotações genômicas e dados experimentais adicionais.
+  A sequência amplificada corresponde a uma região específica do genoma do **Bacillus velezensis strain AP215**. A análise sugere que essa região pode estar associada a genes que desempenham funções relevantes para o microrganismo, como a biossíntese de lipopeptídeos. Lipopeptídeos são conhecidos por suas propriedades antibióticas e podem desempenhar um papel crucial na interação do microrganismo com seu ambiente. Obtivemos a identificação do gene gyrA, um marcador biológico utilizado em estudos ecológicos envolvendo o gênero Bacillus.
 
 ## 3. Resultados
 
@@ -82,7 +82,7 @@ Com base na identificação do microrganismo e na análise da sequência amplifi
    - GCGGCCGCGATGCGTTACACAGAAGCGAGAATGTCAAAAATCGCAATGGAAATCCTCCGGGACATTACGAAAGATACGATTGATTATCAAGATAACTATGACGGCGCAGAAAGAGAACCTGTCGTCATGCCTTCGAGATTTCCGAATCTGCTCGTAAACGGAGCTGCCGGTATTGCGGTCGGAATGGCGACAAATATTCCTCCGCATCAGCTTGGGGAAGTCATTGAAGGCGTGCTTGCCGTAAGTGAGAATCCTGAGATTACAAACCAGGAGCTGATGGAATACATCCCGGGCCCGGATTTTCCGACTGCAGGTCAGATTTTGGGCCGGAGCGGCATCCGCAAGGCATATGAATCCGGACGGGGATCCATTACGATCCGGGCTAAGGCTGAAATCGAAGAGACATCATCGGGAAAAGAAAGAATTATTGTCACAGAACTTCCTTATCAGGTGAACAAAGCGAGATTAATTGAAAAAATCGCAGATCTTGT
 
 5. **Hipótese do Gene:**
-   - Associado à biossíntese de lipopeptídeos, possivelmente envolvido na função antibiótica.
+   - Associado à biossíntese de lipopeptídeos, possivelmente envolvido na função antibiótica.  Gene gyrA, tido como um marcador molecular para estudo ecológico do gênero Bacillus.
 
 ## 4. Discussão
 
@@ -92,8 +92,9 @@ Com base na identificação do microrganismo e na análise da sequência amplifi
 
 ## 5. Conclusão
 
-A análise demonstrou que, entre os genomas testados, apenas o genoma do **Bacillus velezensis strain AP215** apresentou amplificação com os primers fornecidos. A sequência amplificada corresponde a uma região específica do genoma, e a identificação preliminar sugere que a sequência está relacionada a genes envolvidos na biossíntese de lipopeptídeos. Estudos adicionais são necessários para confirmar o gene exato e explorar sua função biológica.
+A análise demonstrou que, entre os genomas testados, apenas o genoma do **Bacillus velezensis strain AP215** apresentou amplificação com os primers fornecidos. A sequência amplificada corresponde a uma região específica do genoma relacionada com o gene gyrA.
 
 ## 6. Referências
 
 - **NCBI Genomic Data for Bacillus velezensis strain AP215**
+    https://www.ncbi.nlm.nih.gov/nuccore/CP160221.1?report=graph&rid=A2GC48G4016[CP160221.1]&tracks=[key:gene_model_track,CDSProductFeats:false] key:sequence_track,name:Sequence,display_name:Sequence,id:STD1,category:Sequence,annots:Sequence,ShowLabel:true][key:gene_model_track,CDSProductFeats:false][key:alignment_track,name:other%20alignments,annots:NG%20Alignments|Refseq%20Alignments|Gnomon%20Alignments|Unnamed,shown:false]&v=6943:6962&appname=ncbiblast&link_loc=fromHSP
